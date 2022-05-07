@@ -1,7 +1,6 @@
 body{
     background-color: red;
 }
-div{
-    background-color: white;
-    border-style:groove ;
+button{
+    background-color: blue;
 }
